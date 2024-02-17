@@ -4,7 +4,7 @@ Profile_page is a page presenting my profile and my website designs. It was crea
 Tech
 
 
-JobOffers is developed using following technologies:
+profile_page is developed using following technologies:
 
 
  
